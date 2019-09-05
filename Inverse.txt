@@ -1,0 +1,6 @@
+A^-1 = (1 / |A|) Adj(A) {|A| != 0}
+
+if A is Singular, then it has no inverse
+
+
+
