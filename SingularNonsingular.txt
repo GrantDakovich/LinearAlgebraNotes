@@ -3,3 +3,8 @@ A matrix is singular if Det = 0 else Nonsingular
 **Only square matrices because only square matrices can have determinants
 
 
+Why is Singularity vs Nonsingularity useful -> we use it for taking the inverse
+
+
+
+
